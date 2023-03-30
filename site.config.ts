@@ -19,7 +19,6 @@ export default siteConfig({
   // social usernames (optional)
   twitter: '',
   github: 'milu-tao',
-  gitee:'milu-tao',
   linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
