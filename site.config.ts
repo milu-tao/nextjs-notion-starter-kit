@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '个人名片',
-  domain: 'https://www.notion.so/e10be85c4b4c4f668724ffad0545e35f',
+  domain: 'https://www.notion.so/10885e8cbb8480258727c48b224e6d05',
   author: 'milu-tao',
 
   // open graph metadata (optional)
